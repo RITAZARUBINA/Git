@@ -1,0 +1,75 @@
+body{
+  background: url("img/background.jpg");
+  font-family: 'Quicksand', sans-serif;
+}
+
+.greeting{
+  margin: 0 auto;
+  padding: 5%;
+  text-align: right;
+}
+.hello{
+  width:100%;
+  font-size: 60px;
+  text-align: right;
+  font-family: 'Barriecito', cursive;
+
+}
+.name{
+  padding-top: 10%;
+  float: left;
+  width: 40%;
+  text-align: right;
+  font-size: 30px;
+}
+.photo{
+  float: left;
+  width: 60%;
+  margin-bottom: 10%;
+}
+.contacts, .personal_info, .knowledge{
+  margin-top: 5% ;
+  padding: 5%;
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Barriecito', cursive;
+}
+.personal_info{
+  margin-top: 20% ;
+}
+.footer{
+  margin-top: 20% ;
+  padding-left: 15%;
+  padding-top: 15%;
+  padding-right:15%;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Barriecito', cursive;
+}
+
+.row{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+}
+.col-1{
+
+  padding:0px;
+  float: left;
+  width: 45%;
+  text-align: right;
+  padding-right: 10px;
+
+
+}
+.col-2{
+
+  padding:0px;
+  float: left;
+  width: 45%;
+  text-align: left;
+}
+.scroll{
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+
