@@ -2,7 +2,7 @@ body{
     background-color: darksalmon;
 }
 .name{
-    font-size: 210pt;
+    font-size: 140pt;
     width: 80%;
     margin-left:10%;
     margin-right: 10%;
@@ -26,7 +26,7 @@ body{
 }
 .values{
     width: 80%;
-    margin: 1% 10%;
+    margin: 5% 10% 1%;
     text-align: center;
 }
 #result{
