@@ -1,0 +1,75 @@
+body{
+    background-color: darksalmon;
+}
+.name{
+    font-size: 210pt;
+    width: 80%;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:5%;
+
+    font-family: 'Poiret One', cursive;
+    color: white;
+    text-align: center;
+
+}
+.annotation{
+    font-size: 20pt;
+    width: 80%;
+    margin-left:10%;
+    margin-right: 10%;
+
+    font-family: 'Poiret One', cursive;
+    color: white;
+
+    text-align: center;
+}
+.values{
+    width: 80%;
+    margin: 1% 10%;
+    text-align: center;
+}
+#result{
+    font-family: 'Poiret One', cursive;
+    color: white;
+    text-align: center;
+    font-size: 30pt;
+}
+.buttoms{
+    width: 80%;
+    margin: 1% 10%;
+    text-align: center;
+}
+input[type=text], .x1 {
+    width: 20%;
+    height: 40px;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+
+}
+input[type=text], .x2 {
+    width: 20%;
+    height: 40px;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+}
+
+
+input[type=buttom], .run {
+    width: 20%;
+    height: 40px;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+}
+input[type=button], .primary {
+    width: 20%;
+    height: 40px;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+}
+input[type=button], .clear {
+    width: 20%;
+    height: 40px;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+}
